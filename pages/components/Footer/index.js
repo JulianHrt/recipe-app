@@ -1,3 +1,7 @@
 export default function Footer() {
-  return <p>Copywright by Julian</p>;
+  return (
+    <footer>
+      <p>Copywright by Julian</p>
+    </footer>
+  );
 }
